@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hassnain-ali
 - 👀 I’m FS DotNet Dev
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ML
+- 📫 You can reach me here `hassnain.ali.13100@gmail.com` 
 
 <!---
 hassnain-ali/hassnain-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
